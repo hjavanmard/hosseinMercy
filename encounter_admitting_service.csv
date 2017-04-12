@@ -1,0 +1,40 @@
+,admitting_service,count(admitting_service)
+0,ED,153780
+1,Ambulatory Surgery,45597
+2,Medical,43746
+3,OB Undelivered,14260
+4,Obstetrics,10566
+5,Nursery,9615
+6,Surgical Floor,8323
+7,Telemetry,5352
+8,Step Down,4392
+9,Oncology,2837
+10,Orthopedics,2517
+11,Neurology,2090
+12,Neonatal ICU,1755
+13,Gynecology,1621
+14,Interventional Radiology,1579
+15,Intensive Care,682
+16,Medical ICU,571
+17,Operating Room,492
+18,Palliative Care,451
+19,Respite Care,382
+20,Hospice,319
+21,,295
+22,Pediatrics,183
+23,Neuro Trauma ICU,125
+24,Labor and Delivery,94
+25,Women's Evaluation Unit,38
+26,SICU,34
+27,Cardiology,21
+28,GI Lab,6
+29,Cardiac Cath,5
+30,Infectious Disease,4
+31,Trauma,4
+32,Urgent Care,2
+33,CICU,2
+34,Swing Bed,1
+35,Residential Care,1
+36,PICU,1
+37,Behavioral Health,1
+38,High Risk OB,1
