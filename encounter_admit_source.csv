@@ -1,0 +1,15 @@
+,admit_source,count(admit_source)
+0,Home/Self,286569
+1,Born inside this hospital,11291
+2,Transfer from a hospital different facility,6866
+3,Clinic/Physician Office,3722
+4,Transfer from another healthcare facility,1390
+5,Transfer hospital IP/DPU same facility,770
+6,Transfer from skilled Nurs Fac (SNF) or intermediate care facility,710
+7,,186
+8,Court/Law Enforcement,124
+9,Information not available,89
+10,Born outside this hospital,9
+11,Trans from hospice and is under a hospice plan of care or enrolled in a hospice progr,8
+12,Transfer from ambulatory surgery center,6
+13,Outside Home Health Agency,5
