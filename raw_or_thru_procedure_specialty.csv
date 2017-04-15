@@ -1,0 +1,24 @@
+,procedure_specialty,count(procedure_specialty)
+0,General Surgery,24902
+1,Gastroenterology,20784
+2,Orthopedics,16161
+3,Urology,12187
+4,Gynecology,8076
+5,Obstetrics,7894
+6,Neurological Surgery,5497
+7,Otorhinolaryngology,5271
+8,Anesthesia,4188
+9,Podiatry,3278
+10,Oralmaxillofacial,2236
+11,Ophthalmology,2084
+12,Plastic Surgery,1587
+13,Dental,1052
+14,,283
+15,Pulmonology,262
+16,Organ Procurement,36
+17,Cardiovascular,24
+18,Vascular Surgery,22
+19,Radiation Oncology,5
+20,Endoscopy,3
+21,Radiology,3
+22,Cardiology,1
