@@ -1,0 +1,42 @@
+,dose_route,count(dose_route)
+0,Oral,17420
+1,IV,17274
+2,,5872
+3,Topical,1542
+4,subCUT,1493
+5,IM,1430
+6,Inhalation,1034
+7,Rectal,641
+8,See Admin Instructions,423
+9,Sublingual,343
+10,Epidural,265
+11,Both Eyes,253
+12,Transdermal,234
+13,Both Nostrils,119
+14,NG Tube,90
+15,Mouth/Throat,87
+16,Infiltration,86
+17,G Tube,56
+18,Vaginal,37
+19,Buccal,36
+20,Right Eye,33
+21,Left Eye,30
+22,Irrigation,29
+23,Intra-arTERial,27
+24,Intradermal,25
+25,Dwell,15
+26,IntraTHEcal,15
+27,J Tube,14
+28,Urethral,13
+29,UVC,13
+30,Intrapleural,12
+31,Intrabladder,8
+32,Misc.(Non-Drug; Combo Route),6
+33,Left Ear,4
+34,EndoTRACHeal,3
+35,Right Ear,3
+36,Ophthalmic,2
+37,intravenous push,1
+38,UAC,1
+39,Injection,1
+40,Both Ears,1
